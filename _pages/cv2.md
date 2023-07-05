@@ -1,6 +1,8 @@
 ---
 layout: page
+permalink: /cv2/
 title: 中文
+description: 中文信息
 nav: true
 nav_order: 6
 ---
@@ -87,3 +89,4 @@ nav_order: 6
 * 2018年 教育部自然科学一等奖（2/9）
 * 2020年 江苏省优秀科普作品三等奖
 * 2021年 江苏省优秀硕士学位论文指导老师
+
