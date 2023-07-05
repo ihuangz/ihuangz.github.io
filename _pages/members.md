@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Members
+permalink: /members/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 1
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
