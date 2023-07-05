@@ -1,6 +1,6 @@
 ---
 layout: page
-title: member 3
+title: members 3
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
