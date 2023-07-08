@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teachings 2
+title: Fundamentals of Geophysics
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
