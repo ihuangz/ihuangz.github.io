@@ -6,6 +6,7 @@ description: Seite 2021 ...
 nav: true
 nav_order: 4
 horizontal: false
+display_categories: [硕士研究生, 博士研究生]
 ---
 
 Thanks very much.
