@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Professor of Geophysics @Nanjing University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 #  address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
@@ -19,17 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a geophysicist at Nanjing University, China. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my Bachelor degree in Geology in 2006, and the Doctorate degree in Structural Geology in 2011, both from **Nanjing University**. My PhD thesis was awarded as the Excellent Doctoral Dissertation of Nanjing University and Jiangsu Province, which was also nominated for National Excellent Doctoral Dissertation Award.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From 2007 to 2012, I visited **Tohoku University**, Japan for several times and spent more than 30 months there, including one-year JSPS G-COE post-doctoral fellowship between September 2011 and August 2012. 
 
-Again!!!
+From June 2016 to May 2018, I worked at **German Research Centre GFZ** as an Alexander von Humboldt Fellowship.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the structures and deformation of the crust and upper mantle beneath continents and subduction zones using seismology (e.g., seismic tomography, shear-wave splitting, surface wave inversion, receiver functions, focal mechanism solutions). The main findings are summerized as:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
+- Seismic velocity and anisotropy of the subduction zones (i.e., Japan, Indonisia, and North Chile) reveal different deformations patterns in the crust, mantle wedge, and subducting slabs, as well as their lateral variations. Megathrust earthquakes are found to occur in the anomalous regions on the plate interfaces, which emperized roles of the structural heterogeities on the genesis of earthquakes. 
