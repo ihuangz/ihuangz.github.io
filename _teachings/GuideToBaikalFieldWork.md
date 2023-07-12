@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fundamentals of Geophysics
+title: Guide to Geological Field Work in Baikal
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
