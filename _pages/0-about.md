@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a geophysicist at Nanjing University, China. [中文网页]( https://es.nju.edu.cn/hzc/list.htm)
+I am a geophysicist at Nanjing University, China. [Email](mailto:huangz@nju.edu.cn) [中文网页]( https://es.nju.edu.cn/hzc/list.htm) 
 
 I obtained my Bachelor degree in Geology in 2006, and the Doctorate degree in Structural Geology in 2011, both from **Nanjing University**. My PhD thesis was awarded as the Excellent Doctoral Dissertation of Nanjing University and Jiangsu Province, which was also nominated for National Excellent Doctoral Dissertation Award.
 
