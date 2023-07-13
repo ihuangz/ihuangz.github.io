@@ -171,15 +171,15 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  researches:
+  research:
     output: true
-    permalink: /researches/:path/
-  teachings:
+    permalink: /research/:path/
+  course:
     output: true
-    permalink: /teachings/:path/
-  members:
+    permalink: /course/:path/
+  member:
     output: true
-    permalink: /members/:path/
+    permalink: /member/:path/
 
 announcements:
   enabled: true
