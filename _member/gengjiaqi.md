@@ -2,7 +2,7 @@
 layout: page
 title: GENG Jiaqi
 description: 2021年硕士研究生
-img: assets/img/gengjiaqi.jpg
+img: assets/img/member/gengjiaqi.jpg
 importance: 5
 category: 硕士研究生
 ---

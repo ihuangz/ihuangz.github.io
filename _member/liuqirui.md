@@ -2,7 +2,7 @@
 layout: page
 title: LIU Qirui
 description: 2021年硕博连读生
-img: assets/img/liuqirui.jpg
+img: assets/img/member/liuqirui.jpg
 importance: 5
 category: 博士研究生
 ---

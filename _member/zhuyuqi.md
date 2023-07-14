@@ -2,7 +2,7 @@
 layout: page
 title: ZHU Yuqi
 description: 2021年博士研究生
-img: assets/img/zhuyuqi.jpg
+img: assets/img/member/zhuyuqi.jpg
 importance: 5
 category: 博士研究生
 ---

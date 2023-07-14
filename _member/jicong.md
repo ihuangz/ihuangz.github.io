@@ -2,7 +2,7 @@
 layout: page
 title: JI Cong
 description: 2020年硕博连读生
-img: assets/img/jicong.jpg
+img: assets/img/member/jicong.jpg
 importance: 5
 category: 博士研究生
 ---

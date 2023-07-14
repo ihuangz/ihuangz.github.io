@@ -2,7 +2,7 @@
 layout: page
 title: SHI Yikang
 description: 2023年硕博连读生
-img: assets/img/shiyikang.jpg
+img: assets/img/member/shiyikang.jpg
 importance: 5
 category: 博士研究生
 ---
