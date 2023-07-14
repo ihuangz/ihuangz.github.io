@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture notes of modern Geophysics
+title: Lecture Notes of Modern Geophysics
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
