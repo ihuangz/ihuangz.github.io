@@ -2,11 +2,21 @@
 layout: page
 title: JI cong
 description: 2021年硕博连读生
-img: assets/img/zlathangzhou.jpg
+img: assets/img/jicong.jpg
 importance: 5
-category: 硕士研究生
+category: 博士研究生
 ---
 
-Dr. JI Cong is a PhD candidate joining the group from 2021. 
+Ji Cong is a PhD student in this group. He focuses on crustal and lithospheric anisotropic structures generated with receiver functions and Eikonal equation, and he is working on the anisotropic structures of the North China Craton. He is interested in MCMC and full wave inversion as well.
 
-He is working on deep structures and dynamics in and around the Ordos Block.
+ 
+
+## Education:
+
+- 2016-2020   B.A. in Nanjing Unviersity
+
+- 2020-       PhD candidate in Nanjing University
+
+ 
+
+### E-mail: ji_cong09@163.com

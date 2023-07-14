@@ -2,7 +2,7 @@
 layout: page
 title: ZHAO Long
 description: 2022年博士研究生
-img: assets/img/zlathangzhou.jpg
+img: assets/img/zhaolong.jpg
 importance: 5
 category: 博士研究生
 ---
