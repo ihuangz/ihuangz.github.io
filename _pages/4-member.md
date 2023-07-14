@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /member/
-title: Member
+title: Members
 description: Seite 2021 ...
 nav: true
 nav_order: 4
