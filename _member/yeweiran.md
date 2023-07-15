@@ -3,7 +3,7 @@ layout: page
 title: YE Weiran
 description: 2023年硕士研究生
 img: assets/img/member/yeweiran.jpg
-importance: 5
+importance: 2
 category: 硕士研究生
 ---
 
