@@ -3,7 +3,7 @@ layout: page
 title: GRADUATED
 description: 已毕业学生
 importance: 5
-category: 已毕业学生
+category: 毕业生
 ---
 
 #### 苟涛

@@ -2,11 +2,11 @@
 layout: page
 permalink: /member/
 title: Members
-description: Seite 2021 ...
+description: Seite 2011 ...
 nav: true
 nav_order: 4
 horizontal: false
-display_categories: [硕士研究生, 博士研究生, 本科生, 已毕业学生]
+display_categories: [博士后, 博士生, 硕士生, 本科生, 毕业生]
 ---
 
 Thanks very much.
