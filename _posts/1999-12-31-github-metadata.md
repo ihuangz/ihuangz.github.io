@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  a post with github metadata
-date: 2020-09-28 21:01:00
+date: 1999-12-31 23:59:59
 description: a quick run down on accessing github metadata.
 categories: sample-posts external-services
 ---

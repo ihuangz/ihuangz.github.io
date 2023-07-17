@@ -7,6 +7,10 @@
       value: 6th December 1984
     - name: Languages
       value: Chinese, English, German
+    - name: Address
+      value: 163 Xianlin Avenue, Nanjing, China
+    - name: Email
+      value: huangz@nju.edu.cn
 
 - title: Education
   type: time_table
