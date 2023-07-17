@@ -121,8 +121,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: # blog_name will be displayed in your blog page
-blog_nav_title: Life # your blog must have a title for it to be displayed in the nav bar
-blog_description: We all enjoy life.
+blog_nav_title: News # your blog must have a title for it to be displayed in the nav bar
+blog_description: Latest posts.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -166,11 +166,11 @@ disqus_shortname: # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+  #  news:
+  #    defaults:
+  #      layout: post
+  #    output: true
+  #    permalink: /news/:path/
   research:
     output: true
     permalink: /research/:path/
@@ -181,10 +181,10 @@ collections:
     output: true
     permalink: /member/:path/
 
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+      #announcements:
+      #enabled: true
+      #scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+      #limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
