@@ -19,8 +19,6 @@ $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
 $purple-color:        #B509AC !default;
 $light-purple-color:  lighten($purple-color, 25%);
-//$purple-color:        #B509AC !default;
-//$light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
@@ -31,6 +29,7 @@ $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
 
 $white-color: #ffffff !default;
+$blue-bg-color: rgba(0, 100, 255, 0.13);
 $black-color: #000000 !default;
 
 
