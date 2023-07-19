@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-[Email](mailto:huangz@nju.edu.cn) [中文网页]( https://es.nju.edu.cn/hzc/list.htm) 
+[中文网页]( https://es.nju.edu.cn/hzc/list.htm) 
 
 I am a geophysicist at Nanjing University, China.
 
