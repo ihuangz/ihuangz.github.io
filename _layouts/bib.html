@@ -147,6 +147,9 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %}
+          {%- if entry.url %}
+            <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">URL</a>
+          {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
             <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
@@ -167,6 +170,10 @@
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
+          {%- if entry.award %}
+            <!--<a href="{{ entry.best_paper }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-medal"></i> {{entry.best_paper}}</a>-->
+            <p class="award"> <i class="fas fa-medal"></i> {{entry.award}}</p> 
+          {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
             <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
@@ -183,6 +190,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.demo %}
+            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
           {%- endif %}
           </div>
           {% if site.badges %}
