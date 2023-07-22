@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GENG Jiaqi introduces seismology to high school students
+title: GENG Jiaqi introduced seismology to high school students
 date: 2023-07-05 09:00:00
 inline: false
 related_posts: false
@@ -18,6 +18,5 @@ Afterwards, Jiaqi and the students went around the broad-band seismic station in
         {% include figure.html path="assets/img/gjq-realtime.jpg" class="img-fluid rounded z-depth-1" %}
             {% include figure.html path="assets/img/gjq-waveforms.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-
 
 
