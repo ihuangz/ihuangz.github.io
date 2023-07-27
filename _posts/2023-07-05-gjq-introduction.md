@@ -19,7 +19,7 @@ Jiaqi first gave a simple lecture to introduce seismology briefly to high school
 
 
 
-Afterwards, Jiaqi and the students went around the broad-band seismic station in Xinlin Campus and jumped together strongly to observe the real-time waveforms displayed in the monitor. The students were excited when seeing the "earthquake" they produced.
+Afterwards, Jiaqi and the students went around the broad-band seismic station in Xianlin Campus and jumped together strongly to observe the real-time waveforms displayed in the monitor. The students were excited when seeing the "earthquake" they produced.
 
 
 <div class="row">
