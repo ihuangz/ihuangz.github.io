@@ -2,15 +2,13 @@
 layout: page
 permalink: /course/
 title: Courses
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses I teach. 
 nav: true
 nav_order: 3
-horizontal: false
+horizontal: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+这是我参与的课程教学。
 
 <!-- pages/teachings.md -->
 
@@ -24,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like!
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -47,7 +45,7 @@ Organize your courses by years, topics, or universities, however you like!
   {% if page.horizontal -%}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}

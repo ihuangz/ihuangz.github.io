@@ -5,7 +5,7 @@ title: Members
 description: Seite 2011 ...
 nav: true
 nav_order: 4
-horizontal: false
+horizontal: true
 display_categories: [博士后, 博士生, 硕士生, 本科生, 毕业生]
 ---
 
@@ -23,7 +23,7 @@ Thanks very much.
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
@@ -46,7 +46,7 @@ Thanks very much.
   {% if page.horizontal -%}
 
   <div class="container">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
     {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
