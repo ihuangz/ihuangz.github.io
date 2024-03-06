@@ -21,4 +21,3 @@ It is really a hard work.
        	{% include figure.html path="assets/img/ts-hw-5.jpg" class="img-fluid rounded z-depth-1" %}
        	{% include figure.html path="assets/img/ts-hw-6.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-
