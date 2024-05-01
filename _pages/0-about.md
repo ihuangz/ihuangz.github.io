@@ -8,7 +8,7 @@ subtitle: Professor of Geophysics @Nanjing University
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 #  address: >
 #    <p>Email: huangz@nju.edu.cn</p>
 #    <p>中文网址: https://es.nju.edu.cn/hzc/list.htm</p>
