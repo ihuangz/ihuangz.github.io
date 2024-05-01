@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publication/
-title: Publications
+title: Papers
 description: Seite 2007
 nav: true
 nav_order: 1
