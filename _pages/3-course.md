@@ -59,7 +59,7 @@ horizontal: true
       {% include projects.html %}
     {%- endfor %}
   </div>
-
   {%- endif -%}
 {%- endif -%}
 </div>
+
