@@ -169,12 +169,12 @@ collections:
   research:
     output: true
     permalink: /research/:path/
-  course:
+  teaching:
     output: true
-    permalink: /course/:path/
-  member:
+    permalink: /teaching/:path/
+  members:
     output: true
-    permalink: /member/:path/
+    permalink: /members/:path/
 
       #announcements:
       #enabled: true
