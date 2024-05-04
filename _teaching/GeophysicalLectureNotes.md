@@ -15,7 +15,7 @@ toc:
 
 ---
 
-# [前言](https://ihuangz.github.io/JuliaTutorials/tutorials/plotstest/)
+# [前言](https://ihuangz.github.io/GeophyNotes/tutorials/plotstest/)
 
 
 <div><h1><hr>
