@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jula编程
+title: Julia编程
 description: A brief introduction to Julia Programming Language
 img: assets/img/Geophysics.jpg
 importance: 2
