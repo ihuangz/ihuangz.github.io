@@ -39,7 +39,6 @@ Thanks very much.
   {% endfor %}
 
 
-
 {%- else -%}
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.members | sort: "importance" -%}
@@ -62,7 +61,29 @@ Thanks very much.
       {% include projects.html %}
     {%- endfor %}
   </div>
-
   {%- endif -%}
 {%- endif -%}
+
+<div id="map" style="height: 500px; width: 800px"></div>
+    <script>
+      var map = L.map('map', {attributionControl: false}).setView([32.0617,118.7778], 2);
+       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+           maxZoom: 10,
+           attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+       }).addTo(map);
+    
+
+var locations = [
+  ["HUANG ZC", 32.0617,118.7778],
+  ["ZHANG C", 41.881832, -87.623177],
+  ["BI YJ", 29.72567,106.70792]
+];
+for (var i = 0; i < locations.length; i++) {
+  marker = new L.marker([locations[i][1], locations[i][2]])
+    .bindPopup(locations[i][0])
+    .addTo(map);
+}
+    </script>
+
+
 </div>
