@@ -64,8 +64,7 @@ Thanks very much.
   {%- endif -%}
 {%- endif -%}
 
-<div id="map" style="height: 400px; width: 770px"></div>
-
+<div id="map" style="height: 380px; width: 770px"></div>
 
 <script>
     var basemapLayer0 = L.tileLayer('http://t1.tianditu.com/vec_c/wmts?layer=vec&style=default&tilematrixset=c&Service=WMTS&Request=GetTile&Version=1.0.0&Format=tiles&TileMatrix={z}&TileCol={x}&TileRow={y}&tk=8899fd3e86aa994f71465b1c56a98727',
@@ -91,7 +90,7 @@ Thanks very much.
       attributionControl: false,
       doubleClickZoom: false,
       editable: true//绘制控件
-    }).setView([32.0617,118.7778], 13);
+    }).setView([32.0617,118.7778], 2);
     var locations = [
   	["HUANG ZC", 32.0617,118.7778],
   	["ZHANG C", 41.881832, -87.623177],
@@ -101,6 +100,7 @@ Thanks very much.
   	marker = new L.marker([locations[i][1], locations[i][2]]).bindPopup(locations[i][0]).addTo(map);
 	}
 </script>
+
 
 
 
