@@ -66,13 +66,33 @@ Thanks very much.
 
 <div id="map" style="height: 400px; width: 770px"></div>
 
+
 <script>
-  var map = L.map('map', {attributionControl: false}).setView([32.0617,118.7778], 1);
-   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-       maxZoom: 10,
-       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-   }).addTo(map);
-   var locations = [
+    var basemapLayer0 = L.tileLayer('http://t1.tianditu.com/vec_c/wmts?layer=vec&style=default&tilematrixset=c&Service=WMTS&Request=GetTile&Version=1.0.0&Format=tiles&TileMatrix={z}&TileCol={x}&TileRow={y}&tk=8899fd3e86aa994f71465b1c56a98727',
+      {
+        maxZoom: 18,
+        minZoom: 1,
+        tileSize: 256,
+        zoomOffset: 1
+      });
+    var basemapLayer1 = L.tileLayer('http://t1.tianditu.com/cva_c/wmts?layer=cva&style=default&tilematrixset=c&Service=WMTS&Request=GetTile&Version=1.0.0&Format=tiles&TileMatrix={z}&TileCol={x}&TileRow={y}&tk=8899fd3e86aa994f71465b1c56a98727',
+      {
+        maxZoom: 18,
+        minZoom: 1,
+        tileSize: 256,
+        zoomOffset: 1
+      });
+    var basemap = L.layerGroup([basemapLayer0, basemapLayer1]);
+    let map = L.map('map', {
+      preferCanvas: true,
+      crs: L.CRS.EPSG4326,
+      layers: [basemap],
+      zoomControl: false,
+      attributionControl: false,
+      doubleClickZoom: false,
+      editable: true//绘制控件
+    }).setView([32.0617,118.7778], 13);
+    var locations = [
   	["HUANG ZC", 32.0617,118.7778],
   	["ZHANG C", 41.881832, -87.623177],
   	["BI YJ", 29.72567,106.70792]
@@ -81,6 +101,9 @@ Thanks very much.
   	marker = new L.marker([locations[i][1], locations[i][2]]).bindPopup(locations[i][0]).addTo(map);
 	}
 </script>
+
+
+
 
 
 
